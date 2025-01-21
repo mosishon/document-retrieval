@@ -56,7 +56,7 @@ A helper class to represent and preprocess documents.
 1. Clone this repository:
    ```bash
    git clone https://github.com/mosishon/document-retrieval.git
-   cd inverted-index-project
+   cd document-retrieval
    ```
 2. Prepare text files (`Doc1.txt`, `Doc2.txt`, ..., `Doc10.txt`) and place them in the project directory.
 
